@@ -1,0 +1,46 @@
+{
+  "bookings": [
+    {
+      "parent": "",
+      "child": "",
+      "attending": "",
+      "address": "",
+      "date": "",
+      "hours": "",
+      "id": 1
+    },
+    {
+      "parent": "",
+      "child": "",
+      "attending": "",
+      "address": "",
+      "date": "2023-03-29",
+      "hours": "",
+      "id": 2
+    }
+  ],
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons the Clown"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop the Clown"
+    }
+  ],
+  "completions": [
+    {
+      "bookingsId": 1,
+      "clownId": 1,
+      "date_created": 1680206068209,
+      "id": 1
+    },
+    {
+      "bookingsId": 2,
+      "clownId": 1,
+      "date_created": 1680206303604,
+      "id": 2
+    }
+  ]
+}
